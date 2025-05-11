@@ -7,4 +7,4 @@ Este repositorio contiene mis primeras prácticas de HTML para la asignatura **A
 - 👉 [Mi primera página HTML](MI%20PRIMERA%20PAGINA%20HTML.html)
 - 🎵 [Mis 10 canciones favoritas](MIS%2010%20CANCIONES%20FAVORITAS.html)
 - 🎬 [Mis películas favoritas](MIS%20PELICULAS%20FAVORITAS.html)
-🧾 [Factura estilo CSS](factura.html)
+-🧾 [Factura estilo CSS](factura.html)
